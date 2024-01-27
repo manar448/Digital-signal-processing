@@ -1,0 +1,18 @@
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\MathNet.Numerics.dll
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\MathNet.Numerics.xml
+C:\Users\manar\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CopyComplete
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\MathNet.Numerics.dll
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\MathNet.Numerics.xml
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CopyComplete
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Malak\Documents\Semster5\Digital Signal Processing\Tasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
